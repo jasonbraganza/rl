@@ -6,11 +6,5 @@ Problems
 
     1 2 3   #  6
     1 2 3 1 2 3 # 6
-
-(2) From the file nums.txt, sum all of the distinct numbers
-    there.
-
-(3) From linux-etc-passwd.txt, show all of the different
-    shells.
 """
 
