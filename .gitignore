@@ -4,3 +4,4 @@ venv/
 *#
 rl.code-workspace
 .gitignore
+.vscode/
