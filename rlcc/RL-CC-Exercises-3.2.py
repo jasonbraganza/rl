@@ -19,7 +19,7 @@ with open("samplefiles/nums.txt") as numberlist:
             set(
                 int(unique_num)
                 for unique_num in [
-                    each_line.strip() for each_line in numberlist if each_line.strip()
+                    each_line for each_line in numberlist if each_line.strip()
                 ]
             )
         )

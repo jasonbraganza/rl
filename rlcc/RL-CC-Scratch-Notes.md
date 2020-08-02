@@ -1,4 +1,4 @@
-Working on Set Comprehension exercises today.  
+Working on Comprehension exercises today.  
 
 ## Reflections and Experience  
   
