@@ -9,3 +9,5 @@ Working on Set Comprehension exercises today.
     - I see a `'_io.TextIOWrapper' object` and know I can iterate over it.  
     - I see `AttributeError: '_io.TextIOWrapper' object has no attribute 'strip'` and realise that it cannot be stripped into parts. I need another way to skin that cat.  
 - And then I took it too far (just like this sentence), and nested a comprehension in another one, in where, I had to learn how to put in a conditional in the form of a ternary operator, in Exercise 3.2 (the commented for loop is much simpler!), but that was *very good* practice. Really stretched me! 
+- I caught myself getting distracted a lot. I needed to set a 30 min timer and I spent about 15, looking for where the timer app in my Mint Desktop was, instead of just setting the darned timer on the phone.  
+- Took an hour to figure out the comprehension for 3.2 and about 20 minutes to do it for Exercise 3.3. Practice helps!  
