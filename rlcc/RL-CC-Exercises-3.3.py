@@ -30,11 +30,9 @@ Problems
 
 with open("samplefiles/linux-etc-passwd.txt") as shell_source:
     print(
-        set(
-            [
-                each_line.strip().split(":")[-1]
-                for each_line in shell_source
-                if each_line.strip() and not each_line.startswith("#")
-            ]
-        )
+        {
+            each_line.strip().split(":")[-1]
+            for each_line in shell_source
+            if each_line.strip() and not each_line.startswith("#")
+        }
     )
