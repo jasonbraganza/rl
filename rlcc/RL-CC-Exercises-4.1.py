@@ -13,3 +13,17 @@ Problem
     ord('a') # 97 == ASCII value
 """
 
+
+def word_score(word):
+    score = sum([ord(letter) for letter in word]) - 96
+    return score
+
+
+def main():
+    get_a_line = input("Enter a phrase: ").lower().split()
+    word_score(get_a_line[0])
+
+
+if __name__ == "__main__":
+    main()
+
