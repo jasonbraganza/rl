@@ -1,0 +1,11 @@
+immediately jump to higher-level thinking. In contrast, people who don’t know these models will likely never reach this higher level, and certainly not quickly.
+
+Think back to when you first learned multiplication. As you may recall, multiplication is just repeated addition. In fact, all mathematical operations based on arithmetic can be reduced to just addition: subtraction is just adding a negative number, division is just repeated subtraction, and so on. However, using addition for complex operations can be really slow, which is why you use multiplication in the first place.
+
+For example, suppose you have a calculator or spreadsheet in front of you. When you have 158 groups of 7 and you want to know the total, you could use your tool to add 7 to itself 158 times (slow), or you could just multiply 7 × 158 (quick). Using addition is painfully time-consuming when you are aware of the higher-level concept of multiplication, which helps you work quickly and efficiently.
+
+When you don’t use mental models, strategic thinking is like using addition when multiplication is available to you. You start from scratch every time without using these essential building blocks that can help you reason about problems at higher levels. And that’s exactly why knowing the right mental models unlocks super thinking, just as subtraction, multiplication, and division unlock your ability to do more complex math problems.
+
+Once you have internalized a mental model like multiplication, it’s hard to imagine a world without it. But very few mental models are innate. There was a time when even addition wasn’t known to most people, and you can still find whole societies that live without it. The Pirahã of the Amazon rain forest in Brazil, for example, have no concept of specific numbers, only concepts for “a smaller amount” and “a larger amount.” As a result, they cannot easily count beyond three, let alone do addition, as Brian Butterworth recounted in an October 20, 2004, article for The Guardian, “What Happens When You Can’t Count Past Four?”:
+
+
